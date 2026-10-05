@@ -6,10 +6,11 @@ This project analyzes supermarket sales data to uncover insights into sales perf
 Microsoft Excel | PivotTables | PivotCharts | Interactive Dashboard
 
 ### 🔍 Key Insights
-• Female customers generated higher sales.  
+• Naypyitaw recorded the highest sales (110,568.71), followed by Mandalay (106,197.67).
+• Female customers generated higher sales.
 • Cash was the most frequently used payment method.  
 • Member customers generated higher sales than Normal customers.  
-• Food and Beverages was the top-performing product line.  
+• Food and Beverages was the top-performing product line. 
 
 ## Dashboard Preview
 
